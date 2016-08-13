@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+
+html {
+  height: 100%
+}
+
+body {
+  height: 100%;
+  background-image: url("img/light-bg1.png");
+  text-align: center;
+  color: black;
+}
+hl {
+font-family: "dancing+script"
+}
+.titel {
+  font-size: 5em;
+
+}
+
+
+.btn {
+  font-size: inherit;
+  color: white;
+  background-color: purple;
+  text-decoration: none;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  display: black;
+}
+
+.guess {
+  font-size: 2em;
+  display: balck;
+  margin: 0 auto 1.5em;
+
+}
+.trophy{
+  height: 400px;
+}
